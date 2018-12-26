@@ -1,0 +1,11 @@
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\bin\Debug\netcoreapp2.1\NumberRecieveBroadCast.deps.json
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\bin\Debug\netcoreapp2.1\NumberRecieveBroadCast.runtimeconfig.json
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\bin\Debug\netcoreapp2.1\NumberRecieveBroadCast.runtimeconfig.dev.json
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\bin\Debug\netcoreapp2.1\NumberRecieveBroadCast.dll
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\bin\Debug\netcoreapp2.1\NumberRecieveBroadCast.pdb
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\obj\Debug\netcoreapp2.1\NumberRecieveBroadCast.csprojAssemblyReference.cache
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\obj\Debug\netcoreapp2.1\NumberRecieveBroadCast.csproj.CoreCompileInputs.cache
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\obj\Debug\netcoreapp2.1\NumberRecieveBroadCast.AssemblyInfoInputs.cache
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\obj\Debug\netcoreapp2.1\NumberRecieveBroadCast.AssemblyInfo.cs
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\obj\Debug\netcoreapp2.1\NumberRecieveBroadCast.dll
+C:\Source\UDP\NumberRecieveBroadCast\NumberRecieveBroadCast\obj\Debug\netcoreapp2.1\NumberRecieveBroadCast.pdb
